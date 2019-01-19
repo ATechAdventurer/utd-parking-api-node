@@ -1,0 +1,30 @@
+{
+  "name": "utd-parking-api-node",
+  "version": "1.0.0",
+  "description": "My implementation of @Codes4Coffee 's UT Dallas parking API in Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ATechAdventurer/utd-parking-api-node.git"
+  },
+  "keywords": [
+    "UT",
+    "Dallas",
+    "UTD",
+    "Parking"
+  ],
+  "author": "Cameron Steele (ATechAdventurer)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ATechAdventurer/utd-parking-api-node/issues"
+  },
+  "homepage": "https://github.com/ATechAdventurer/utd-parking-api-node#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
